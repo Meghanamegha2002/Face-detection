@@ -2,7 +2,7 @@
 
 # Face Detector Project
 
-Welcome to the Face Detector project! This project allows you to detect faces in images using the Face-API.js library. The application is built using HTML, CSS, and JavaScript, and it provides an easy-to-use interface to detect faces in the uploaded images.
+ This project allows you to detect faces in images using the Face-API.js library. The application is built using HTML, CSS, and JavaScript, and it provides an easy-to-use interface to detect faces in the uploaded images.
 
 This project is a part of Code Clause Internship
 
